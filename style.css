@@ -5,7 +5,7 @@
 }
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url(image/banner.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #009688), url(banner.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -540,7 +540,7 @@ nav ul li a {
 
 .login .form-details {
     padding: 0 40px;
-    background: url("image/login-banner.png");
+    background: url("login-banner.png");
     background-position: center;
     background-size: cover;
 }
@@ -548,7 +548,7 @@ nav ul li a {
 
 .signup .form-details {
     padding: 0 20px;
-    background: url("image/signup-banner.png");
+    background: url("signup-banner.png");
     background-position: cente
     r;
     background-size: cover;
